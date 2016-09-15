@@ -1,0 +1,23 @@
+.body {
+  text-align: center;
+  margin: auto;
+}
+.img {
+  margin-top: 150px;
+}
+button {
+  background-color: #F2F2F2;
+  border: none;
+  padding: 10px 10px;
+}
+.textbox {
+  margin: 1em;
+  width: 450px;
+  padding: 7px 7px;
+  font-size: 1.5em;
+  background-image: url("mic.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: contain;
+  border-width: thin;
+}
